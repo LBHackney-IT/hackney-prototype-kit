@@ -28,3 +28,11 @@ OR
 If there's an example that does most of what you do, but you just need to change the text, and you think you'd be comfortable identifying which text to change, then I'd recommend option 1.
 
 If none of the examples are quite right or you're not confident knowing which bits of text you'd need to change then option 2 will be best.
+
+## To-do list
+
+1. Rename to hackney-prototype-kit
+2. Use npm to get the latest version
+3. Re-write docs
+4. Test tricky components like tabs and contacts
+5. Add a codesandbox link so people can play around without installing anything to their computer
