@@ -2,7 +2,6 @@
   "name": "hackney-prototype-kit",
   "version": "1.0.0",
   "description": "This is a simple starter to allow you to create HTML pages using the Hackney pattern library.",
-  "main": "index.js",
   "scripts": {
     "start": "npm-run-all --parallel dev:*",
     "build": "npm-run-all build:*",
