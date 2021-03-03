@@ -1,4 +1,4 @@
-import { initAll } from "lbh-frontend"
+import { initAll } from "lbh-frontend-repository"
 
 //////////////////////////////////
 // JAVASCRIPT
