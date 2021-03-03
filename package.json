@@ -1,0 +1,33 @@
+{
+  "name": "hackney-prototype-kit",
+  "version": "1.0.0",
+  "description": "This is a simple starter to allow you to create HTML pages using the Hackney pattern library.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm-run-all --parallel dev:*",
+    "build": "npm-run-all build:*",
+    "dev:parcel": "parcel watch javascript/index.js -d _site/js",
+    "dev:11ty": "eleventy --serve --input=pages",
+    "build:parcel": "parcel build javascript/index.js -d _site/js",
+    "build:11ty": "ELEVENTY_ENV=production eleventy --input=pages"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LBHackney-IT/hackney-prototype-kit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LBHackney-IT/hackney-prototype-kit/issues"
+  },
+  "homepage": "https://github.com/LBHackney-IT/hackney-prototype-kit#readme",
+  "dependencies": {
+    "lbh-frontend-repository": "^3.8.0",
+    "@11ty/eleventy": "^0.11.0",
+    "parcel-bundler": "^1.12.4",
+    "eleventy-plugin-sass": "^1.0.0",
+    "govuk-frontend": "^3.7.0",
+    "npm-run-all": "^4.1.5"
+  }
+}
