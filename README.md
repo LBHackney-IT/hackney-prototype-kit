@@ -12,7 +12,7 @@ There are two ways to use the prototyping kit, depending on whether you want to 
 
 ### 1. Use CodeSandbox
 
-**[Run it in CodeSandbox now](https://githubbox.com/LBHackney-IT/hackney-prototype-kit)**
+**[Run it in CodeSandbox now](https://githubbox.com/LBHackney-IT/hackney-prototype-kit?file=/pages/index.html)**
 
 Recommended for beginners.
 
