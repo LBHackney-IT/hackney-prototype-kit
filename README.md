@@ -16,6 +16,8 @@ There are two ways to use the prototyping kit, depending on whether you want to 
 
 Recommended for beginners.
 
+You can play with the prototyping kit through your web browser with CodeSandbox. You can create a free account if you want to save your prototypes.
+
 ### 2. Install it locally
 
 Recommended for developers and technical people.
