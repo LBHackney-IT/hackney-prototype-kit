@@ -60,3 +60,7 @@ If you've made your prototype [locally](#2-install-it-locally), **[drag your fol
 ### Publishing it somewhere else
 
 This kit is made on the static site generator Eleventy, so it will work anywhere you can deploy static websites, including Vercel, Github Pages and Amazon S3. Eleventy has [examples here](https://www.11ty.dev/docs/tutorials/#put-it-on-the-web).
+
+## 🧱 How it works
+
+Under the hood, this is an [Eleventy](https://www.11ty.dev/) site that uses [Parcel](https://parceljs.org/) to compile JavaScript. If this doesn't mean anything to you, you don't need to worry about it.
