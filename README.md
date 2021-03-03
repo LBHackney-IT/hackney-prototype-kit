@@ -6,6 +6,8 @@ It's been built to work with the new [Hackney Design System](https://design-syst
 
 If you're looking for an even simpler way to get started, you could experiment with [this CodePen](https://codepen.io/jhackett1/pen/xxRWWKv?editors=1000) instead.
 
+If you need help using this kit, post in the [#hackit-design-system](https://hackit-lbh.slack.com/archives/CJ6AWTH0A) channel on Slack.
+
 ## 👩‍💻 Get started
 
 There are two ways to use the prototyping kit, depending on whether you want to download and install it on your computer.
@@ -24,12 +26,14 @@ Recommended for developers and technical people.
 
 You'll need [Node.js](https://nodejs.org/en/) installed to use the kit locally.
 
-1. Download this repository to your machine by Clicking the green "Clone or download" button at the top right of the screen and select "Download Zip".
+1. Download this repository to your machine by Clicking the green "Code" button at the top right of the screen and choose "Download ZIP".
 2. Extract the zip file.
 3. In your terminal, navigate to the folder you've extracted the kit to and run `npm install`.
 4. Once installation has finished, run `npm start`.
 
 You'll be able to access your prototypes in your browser at [http://localhost:8080](http://localhost:8080).
+
+If you need help installing Node.js and using the terminal, you can follow [this guide for the GOV.UK prototype kit](https://govuk-prototype-kit.herokuapp.com/docs/install/introduction).
 
 ## 🎨 Making a prototype
 
