@@ -14,7 +14,9 @@ There are two ways to use the prototyping kit, depending on whether you want to 
 
 **[Run it in CodeSandbox now](https://githubbox.com/LBHackney-IT/hackney-prototype-kit)**
 
-Recommended for beginners
+Recommended for beginners.
+
+After
 
 ### 2. Install it locally
 
