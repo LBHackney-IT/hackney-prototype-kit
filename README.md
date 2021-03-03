@@ -49,12 +49,12 @@ It will automatically refresh when you make changes.
 
 You might want to publish a prototype to the web to share it with colleagues or user research participants.
 
-The easiest way to publish your prototype to the web is with Netlify.
+The easiest way to publish your prototype is with [Netlify](https://www.netlify.com/).
 
-If you've made your prototype [locally](#2-install-it-locally), drag your folder onto Netlify [here](https://app.netlify.com/drop).
+If you've used [CodeSandbox](#1-use-codesandbox) to make your prototype, you can deploy it to Netlify or Vercel straight from there.
 
-If you've use CodeSandbox to make your prototype, you can deploy it to Netlify or Vercel straight from there.
+If you've made your prototype [locally](#2-install-it-locally), **[drag your folder onto Netlify here](https://app.netlify.com/drop)**.
 
 ### Publishing it somewhere else
 
-This kit is made on the static site generator Eleventy, so it will work anywhere you can deploy static websites. Eleventy has [e]xamples here](https://www.11ty.dev/docs/tutorials/#put-it-on-the-web).
+This kit is made on the static site generator Eleventy, so it will work anywhere you can deploy static websites, including Vercel, Github Pages and Amazon S3. Eleventy has [examples here](https://www.11ty.dev/docs/tutorials/#put-it-on-the-web).
