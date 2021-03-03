@@ -1,4 +1,24 @@
-# LBH Simple Frontend
+# Hackney prototype kit
+
+Use this kit to quickly create HTML prototypes of Hackney services.
+
+It's been built to work with the new [Hackney Design System](https://design-system.hackney.gov.uk) and to need minimal knowledge of coding to get started.
+
+If you're looking for an even simpler way to get started, you could experiment with [this CodePen](https://codepen.io/jhackett1/pen/xxRWWKv?editors=1000) instead.
+
+## Get started
+
+There are two ways to use the prototyping kit, depending on whether you want to download and install it on your computer.
+
+### 1. Use CodeSandbox
+
+**[Run it in CodeSandbox now](https://githubbox.com/LBHackney-IT/hackney-prototype-kit)**
+
+Recommended for beginners
+
+### 2. Install it locally
+
+Recommended for developers and technical people.
 
 This is a simple starter to allow you to create HTML pages using the Hackney pattern library.
 
@@ -31,7 +51,6 @@ If none of the examples are quite right or you're not confident knowing which bi
 
 ## To-do list
 
-1. Rename to hackney-prototype-kit
 2. Use npm to get the latest version
 3. Re-write docs
 4. Test tricky components like tabs and contacts
