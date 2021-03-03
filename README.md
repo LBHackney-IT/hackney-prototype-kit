@@ -33,17 +33,17 @@ You'll be able to access your prototypes in your browser at [http://localhost:80
 
 ## 🎨 Making a prototype
 
-Steps:
-
 1. Open `pages/index.html` in a text editor of your choice. We recommend [VS Code](https://code.visualstudio.com/).
-2. Replace `title: My first page` with the title of your page
-3. In the body of `_includes/layout.html` you will find placeholder comments for different components such as: header, breadcrumbs etc. For each component in turn if you decide you want to include that component then go to the [design system](https://design-system.hackney.gov.uk), and click on the component.
+2. Replace `title: My first page` with the title of your page.
+3. For each component in turn if you decide you want to include that component then go to the [design system](https://design-system.hackney.gov.uk), and click on the component.
 4. Copy the component HTML and paste into `index.html`, making any changes necessary.
 5. Repeat this for all components required on your page.
-6. Add any headings and body text that your page needs, using the [LBH Frontend Typography Page](http://lbh-frontend.herokuapp.com/examples/typography) as a reference.
+6. Add any headings and body text that your page needs, using the design system's typography reference.
 7. To create other pages, copy and paste `index.html` as a new file in the `pages` folder and save it under a new name.
 
-It will automatically refresh when you make changes.
+It will automatically refresh as you make changes.
+
+If you want to change the page layout, look in `_includes/layout.html`, where you will find placeholder comments for different components such as: header and breadcrumbs.
 
 ## 🌍 Publishing a prototype to the web
 
