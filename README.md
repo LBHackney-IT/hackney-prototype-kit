@@ -41,11 +41,10 @@ If you need help installing Node.js and using the terminal, you can follow [this
 
 1. Open `pages/index.html` in a text editor of your choice. We recommend [VS Code](https://code.visualstudio.com/).
 2. Replace `title: My first page` with the title of your page.
-3. For each component in turn if you decide you want to include that component then go to the design system, and click on the component.
+3. Find each component you want to include in the design system docs.
 4. Copy the component HTML and paste into `index.html`, making any changes necessary.
-5. Repeat this for all components required on your page.
-6. Add any headings and body text that your page needs, using the design system's typography reference.
-7. To create other pages, copy and paste `index.html` as a new file in the `pages` folder and save it under a new name.
+5. Add any headings and body text that your page needs, using the design system's typography reference.
+6. To create other pages, copy and paste `index.html` as a new file in the `pages` folder and save it under a new name.
 
 It will automatically refresh as you make changes.
 
