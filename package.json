@@ -24,7 +24,7 @@
   "dependencies": {
     "@11ty/eleventy": "^0.11.0",
     "eleventy-plugin-sass": "^1.0.0",
-    "lbh-frontend-repository": "^3.8.0",
+    "lbh-frontend": "^3.5.2",
     "npm-run-all": "^4.1.5",
     "parcel-bundler": "1.12.3"
   }
